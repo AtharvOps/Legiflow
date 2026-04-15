@@ -3,13 +3,13 @@
      ========================== -->
 
 <div align="center">
-  <h1>⚖️ Legiflow</h1>
-  <p><b>Demystifying Legal Documents. Simplifying Law for Everyone.</b></p>
+  <h1>⚖️ Legiflow</h1>   
+  <p><b>Demystifying Legal Documents. Simplifying Law for Everyone.</b></p> 
 
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Made%20With-TypeScript-blue" />
-  <img src="https://img.shields.io/badge/Focus-Indian%20Law-orange" />
-</div>
+  <img src="https://img.shields.io/badge/Status-Active-success" />          
+  <img src="https://img.shields.io/badge/Made%20With-TypeScript-blue" />     
+  <img src="https://img.shields.io/badge/Focus-Indian%20Law-orange" />                 
+</div>                
 
 <hr/>
 
